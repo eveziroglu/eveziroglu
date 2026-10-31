@@ -1,28 +1,44 @@
-## Merhaba, ben Erkan VEZİROĞLU 👋
+# Öğr. Gör. Erkan VEZİROĞLU
 
-**Öğretim Görevlisi** · Dumlupınar Üniversitesi Simav Meslek Yüksekokulu · Bilgisayar Programcılığı
+**Dumlupınar Üniversitesi · Simav Meslek Yüksekokulu**
+Bilgisayar Programcılığı Programı
 
-Programlama ve web derslerini proje tabanlı, adım adım föylerle anlatıyorum; öğrenci teslimlerini kendi yazdığım
-denetim araçlarıyla değerlendiriyorum. İlgi alanlarım: programlama eğitimi, veri bilimi, makine öğrenmesi ve eğitim teknolojileri.
+---
 
-### 📚 Verdiğim dersler (2026–2027)
+## Uzmanlık Alanları
 
-| Ders | Konu |
-|---|---|
-| C Programlama | Temelden işaretçilere 14 föy, ara görevler, dönem projesi |
-| Görsel Programlama II | C# Windows Forms, SQL Server bağlantılı market otomasyonu |
-| Web Tasarımının Temelleri | HTML / CSS ile kişisel site |
-| Programlama Temelleri ve Algoritmaya Giriş I | Akış diyagramı → sözde kod → Python |
-| Bilgisayar Programlama | Akıllı sera temalı Python |
-| Web Projesi Yönetimi · İnternet Programcılığı I · Veri Tabanı II | PHP + MySQL ortak dönem projesi, ekip çalışması ve Git |
+Programlama eğitimi · Veri bilimi · Makine öğrenmesi · Eğitim teknolojileri · Veri tabanı sistemleri
 
-### ⭐ Öne çıkanlar
+## Verilen Dersler
 
-- [**Veri Tabanı Yönetim Sistemleri**](https://github.com/eveziroglu/ders-veri-tabani-yonetim-sistemleri) — ders notları ve NorthWind örnek veritabanı
-- [**NumPy Eğitimi**](https://github.com/eveziroglu/egitim-numpy) — temelden uygulamaya Türkçe Jupyter defterleri
-- [**Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme Atölyesi**](https://github.com/eveziroglu/atolye-btk-makine-ogrenmesi) — BTK Akademi atölyesi
-- [**ExamHub**](https://rumuzatech.vercel.app) — öğrenciler için çevrimdışı çalışan sınav platformu (RumuzaTech)
+**2026–2027 Güz Yarıyılı**
 
-### 🗂️ Depo adlandırması
+- C Programlama
+- Görsel Programlama II (C# Windows Forms)
+- Web Tasarımının Temelleri
+- Programlama Temelleri ve Algoritmaya Giriş I
+- Bilgisayar Programlama
+- Web Projesi Yönetimi · İnternet Programcılığı I · Veri Tabanı II (ortak dönem projesi)
 
-`ders-` ders materyalleri · `egitim-` eğitim setleri · `atolye-` atölyeler · `proje-` projeler · `makale-` akademik çalışmalar
+**Önceki yarıyıllar**
+
+- Veri Tabanı Yönetim Sistemleri — [ders notları](https://github.com/eveziroglu/ders-veri-tabani-yonetim-sistemleri)
+- Nesne Yönelimli Programlama (C#)
+
+## Atölyeler ve Eğitimler
+
+- **Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme Atölyesi** · BTK Akademi, Manisa — [atölye materyalleri](https://github.com/eveziroglu/atolye-btk-makine-ogrenmesi)
+
+## Eğitim Materyalleri
+
+- **NumPy Eğitimi** — Türkçe Jupyter defterleriyle temelden uygulamaya — [depo](https://github.com/eveziroglu/egitim-numpy)
+- Python ile Veri Bilimi ve Pandas eğitim setleri
+- Türkçe dil modeli (LLM) eğitim seti
+
+## Akademik Çalışmalar
+
+- Naive Bayes üzerine makale çalışması
+
+## Projeler
+
+- **ExamHub** — öğrenciler için çevrimdışı çalışan sınav platformu — [rumuzatech.vercel.app](https://rumuzatech.vercel.app)
