@@ -2,7 +2,7 @@
 
 Research focuses on the application of deep learning and machine learning methods to real-world problems,
 with particular emphasis on healthcare. Work spans medical image analysis, computer vision, signal processing and
-text classification, and has been carried out within nationally funded research projects and published in
+text classification, and has been carried out within a nationally funded research project and published in
 national and international journals and conference proceedings.
 
 **Research interests:** Deep Learning · Machine Learning · Medical Image Analysis · Computer Vision · Signal Processing · Natural Language Processing
