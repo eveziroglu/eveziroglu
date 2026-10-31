@@ -18,11 +18,8 @@ değerlendiren araçlar geliştirilmektedir.
 
 ## Eğitim Çalışmaları
 
-Programlama (C, C#, Python), web tasarımı, PHP–MySQL ile web projesi geliştirme ve veri tabanı yönetim sistemleri
-alanlarında haftalık, proje tabanlı öğretim materyalleri hazırlanmakta; öğrenci teslimleri geliştirilen denetim araçlarıyla
-otomatik olarak değerlendirilmektedir.
-
-- **Veri Tabanı Yönetim Sistemleri** — [ders notları](https://github.com/eveziroglu/ders-veri-tabani-yonetim-sistemleri)
-- **NumPy Eğitimi** — Türkçe Jupyter defterleri — [depo](https://github.com/eveziroglu/egitim-numpy)
-- **Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme Atölyesi** — [atölye materyalleri](https://github.com/eveziroglu/atolye-btk-makine-ogrenmesi)
-- **ExamHub** — çevrimdışı çalışan sınav platformu — [rumuzatech.vercel.app](https://rumuzatech.vercel.app)
+Programlama, web teknolojileri, veri tabanı sistemleri ve veri bilimi alanlarında proje tabanlı, adım adım ilerleyen
+öğretim materyalleri hazırlanmaktadır. Materyaller kuramsal anlatımı uygulamalı çalışmalar, hata ayıklama etkinlikleri ve
+dönem boyu süren projelerle birleştirmektedir. Öğrenci çalışmaları, bu amaçla geliştirilen araçlarla otomatik olarak
+denetlenmekte ve ayrıntılı geri bildirimlerle değerlendirilmektedir. Ayrıca makine öğrenmesi ve derin öğrenme atölyelerinde
+eğitmen olarak yer alınmakta, Türkçe eğitim setleri ve çevrimiçi ölçme-değerlendirme uygulamaları geliştirilmektedir.
