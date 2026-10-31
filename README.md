@@ -1,4 +1,4 @@
-# Erkan VEZİROĞLU
+# VEZIROGLU
 
 Research focuses on the application of deep learning and machine learning methods to real-world problems,
 with particular emphasis on healthcare. Work spans medical image analysis, computer vision, signal processing and
