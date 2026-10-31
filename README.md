@@ -1,6 +1,6 @@
 # Öğr. Gör. Erkan VEZİROĞLU
 
-**Dumlupınar Üniversitesi · Simav Meslek Yüksekokulu**
+**Dumlupınar Üniversitesi · Simav Meslek Yüksekokulu**<br>
 Bilgisayar Programcılığı Programı
 
 ---
