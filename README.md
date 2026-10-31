@@ -1,39 +1,46 @@
 # Erkan VEZİROĞLU
 
-Programlama eğitimi, veri bilimi ve eğitim teknolojileri üzerine çalışıyorum. Proje tabanlı, adım adım ilerleyen
-ders materyalleri hazırlıyor; bu materyallerle yapılan çalışmaları otomatik değerlendiren araçlar geliştiriyorum.
+Çalışmalarım derin öğrenme ve makine öğrenmesi yöntemlerinin tıbbi görüntü analizi, bilgisayarlı görü, biyomedikal
+sinyal işleme ve metin sınıflandırma problemlerine uygulanması üzerine yoğunlaşmaktadır. Bu araştırmaların yanı sıra
+programlama eğitimi alanında proje tabanlı öğretim materyalleri ve öğrenci çalışmalarını otomatik değerlendiren
+araçlar geliştirmekteyim.
 
 ---
 
-## İlgi Alanları
+## Araştırma Alanları
 
-Programlama eğitimi · Veri bilimi · Makine öğrenmesi · Eğitim teknolojileri · Veri tabanı sistemleri
+Derin öğrenme · Tıbbi görüntü analizi · Bilgisayarlı görü · Nesne tespiti (YOLO) · Evrişimli sinir ağları ·
+Biyomedikal sinyal sınıflandırma · Doğal dil işleme · Makine öğrenmesi · Programlama eğitimi
 
-## Teknolojiler
+## Araştırma Projesi
 
-C · C# (Windows Forms) · Python · Jupyter · PHP · MySQL · SQL Server · HTML · CSS · JavaScript · Git
+**MRI Tabanlı Beyin Damar Tıkanıklığının Derin Öğrenme ile Otonom Teşhisi** (2024–2026)
+Türkiye Sağlık Enstitüleri Başkanlığı (TÜSEB) · Görev: Araştırmacı
 
-## Ders Materyalleri
+## Yayınlar
 
-- C Programlama
-- Görsel Programlama (C# Windows Forms)
-- Web Tasarımı (HTML / CSS)
-- Programlama Temelleri ve Algoritma (Python)
-- PHP ve MySQL ile web projesi geliştirme
-- Veri Tabanı Yönetim Sistemleri — [ders notları](https://github.com/eveziroglu/ders-veri-tabani-yonetim-sistemleri)
+### Makaleler
 
-## Eğitim Setleri ve Atölyeler
+1. **Advancing Ischemic Stroke Detection Through an In-depth Evaluation of YOLOv10 Models on Diffusion-Weighted Imaging Data.**
+   *Journal of Soft Computing and Decision Analytics*, 4(1), 16–31, 2026.
 
-- **NumPy Eğitimi** — Türkçe Jupyter defterleriyle temelden uygulamaya — [depo](https://github.com/eveziroglu/egitim-numpy)
+2. **Performance Comparison between Naive Bayes and Machine Learning Algorithms for News Classification.**
+   *IntechOpen*, 79–88, 2024. DOI: [10.5772/intechopen.10003458](https://doi.org/10.5772/intechopen.10003458)
+
+3. **Derin Evrişimli Sinir Ağları Kullanılarak Pirinç Hastalıklarının Sınıflandırılması.**
+   *Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi*, 13(2), 792–814, 2023. DOI: [10.21597/jist.1265769](https://doi.org/10.21597/jist.1265769)
+
+### Bildiriler
+
+1. **Stetoskop Sesinden Kalp Atışı Anormalliklerinin Sınıflandırılması.** Atatürk Üniversitesi Yayınları, 25.05.2023.
+
+## Eğitim Çalışmaları
+
+Programlama (C, C#, Python), web tasarımı, PHP–MySQL ile web projesi geliştirme ve veri tabanı yönetim sistemleri
+alanlarında haftalık, proje tabanlı öğretim materyalleri hazırlanmakta; öğrenci teslimleri geliştirilen denetim araçlarıyla
+otomatik olarak değerlendirilmektedir.
+
+- **Veri Tabanı Yönetim Sistemleri** — [ders notları](https://github.com/eveziroglu/ders-veri-tabani-yonetim-sistemleri)
+- **NumPy Eğitimi** — Türkçe Jupyter defterleri — [depo](https://github.com/eveziroglu/egitim-numpy)
 - **Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme Atölyesi** — [atölye materyalleri](https://github.com/eveziroglu/atolye-btk-makine-ogrenmesi)
-- Python ile Veri Bilimi ve Pandas eğitim setleri
-- Türkçe dil modeli (LLM) eğitim seti
-
-## Projeler
-
-- **ExamHub** — öğrenciler için çevrimdışı çalışan sınav platformu — [rumuzatech.vercel.app](https://rumuzatech.vercel.app)
-- Ödev teslimlerini otomatik denetleyen araçlar (C, C#, Python, HTML/CSS, PHP)
-
-## Depo Adlandırması
-
-`ders-` ders materyalleri · `egitim-` eğitim setleri · `atolye-` atölyeler · `proje-` projeler · `makale-` çalışmalar
+- **ExamHub** — çevrimdışı çalışan sınav platformu — [rumuzatech.vercel.app](https://rumuzatech.vercel.app)
