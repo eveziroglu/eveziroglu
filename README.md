@@ -1,38 +1,20 @@
 # Erkan VEZİROĞLU
 
-Çalışmalarım derin öğrenme ve makine öğrenmesi yöntemlerinin tıbbi görüntü analizi, bilgisayarlı görü, biyomedikal
-sinyal işleme ve metin sınıflandırma problemlerine uygulanması üzerine yoğunlaşmaktadır. Bu araştırmaların yanı sıra
-programlama eğitimi alanında proje tabanlı öğretim materyalleri ve öğrenci çalışmalarını otomatik değerlendiren
-araçlar geliştirmekteyim.
+Çalışmalar, derin öğrenme ve makine öğrenmesi yöntemlerinin sağlık ve tarım alanındaki problemlere uygulanması üzerine
+yoğunlaşmaktadır. Manyetik rezonans görüntülerinden inme ve damar tıkanıklığı tespiti, nesne tespit modellerinin tıbbi
+görüntülerde karşılaştırmalı değerlendirmesi, bitki hastalıklarının evrişimli sinir ağlarıyla sınıflandırılması, kalp
+seslerinden anormallik tespiti ve metin sınıflandırma bu çalışmaların başlıcalarıdır. Bu alanlarda ulusal destekli bir
+araştırma projesinde araştırmacı olarak görev alınmakta; çalışmalar ulusal ve uluslararası dergilerde ve bildirilerde
+yayımlanmaktadır.
+
+Bunun yanında programlama eğitimi alanında proje tabanlı öğretim materyalleri ve öğrenci çalışmalarını otomatik
+değerlendiren araçlar geliştirilmektedir.
+
+**Araştırma alanları:** Derin öğrenme · Tıbbi görüntü analizi · Bilgisayarlı görü · Biyomedikal sinyal işleme · Doğal dil işleme · Programlama eğitimi
+
+**Yayınlar:** [ORCID 0000-0002-3358-8467](https://orcid.org/0000-0002-3358-8467)
 
 ---
-
-## Araştırma Alanları
-
-Derin öğrenme · Tıbbi görüntü analizi · Bilgisayarlı görü · Nesne tespiti (YOLO) · Evrişimli sinir ağları ·
-Biyomedikal sinyal sınıflandırma · Doğal dil işleme · Makine öğrenmesi · Programlama eğitimi
-
-## Araştırma Projesi
-
-**MRI Tabanlı Beyin Damar Tıkanıklığının Derin Öğrenme ile Otonom Teşhisi** (2024–2026)
-Türkiye Sağlık Enstitüleri Başkanlığı (TÜSEB) · Görev: Araştırmacı
-
-## Yayınlar
-
-### Makaleler
-
-1. **Advancing Ischemic Stroke Detection Through an In-depth Evaluation of YOLOv10 Models on Diffusion-Weighted Imaging Data.**
-   *Journal of Soft Computing and Decision Analytics*, 4(1), 16–31, 2026.
-
-2. **Performance Comparison between Naive Bayes and Machine Learning Algorithms for News Classification.**
-   *IntechOpen*, 79–88, 2024. DOI: [10.5772/intechopen.10003458](https://doi.org/10.5772/intechopen.10003458)
-
-3. **Derin Evrişimli Sinir Ağları Kullanılarak Pirinç Hastalıklarının Sınıflandırılması.**
-   *Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi*, 13(2), 792–814, 2023. DOI: [10.21597/jist.1265769](https://doi.org/10.21597/jist.1265769)
-
-### Bildiriler
-
-1. **Stetoskop Sesinden Kalp Atışı Anormalliklerinin Sınıflandırılması.** Atatürk Üniversitesi Yayınları, 25.05.2023.
 
 ## Eğitim Çalışmaları
 
